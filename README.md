@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ebrahama&style=plastic&color=orange)
-### <h1>Hello there <img src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="40"><h1>
+<h2>Hello there <img src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="40"><h2>
 my name is ibrahim but you can call me ibra am International student and self-taught developer currently living in egypt and  I enjoy learning to code on my freetime <br/>
 <hr>
 <h3> Quick Facts <h3>
