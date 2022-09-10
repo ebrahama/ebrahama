@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ebrahama&style=plastic&color=orange)
-<h2>Hello there <img src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="40"><h2>
-they call me ibrahim but you can call me ibra am International student and self-taught developer currently living in egypt and  I enjoy learning to code on my freetime <br/>
+<h2>Hello there<img src="https://media.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="40"><h2>
+I am Ibrahim, but you can call me Ibra. I am an international student and self-taught developer currently living in Egypt, and I enjoy learning to code in my free time.<br/>
 <hr>
 <h3> Quick Facts <h3>
-<img  max-width="450" height="255" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align=right>
+<img  max-width="440" height="255" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align=right>
 
 - 🔭 Interested in Full Stack and Game Dev
 
