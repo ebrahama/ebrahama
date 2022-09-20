@@ -24,7 +24,7 @@ I am Ibrahim, but you can call me Ibra. I am an international student and self-t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibra03m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibra03m" height="30" width="40" /></a>
-<a href="linkedin.com/in/ibrahim-moha-78993b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssssss" height="30" width="40" /></a>
+<ahref="https://linkedin.com/in/ibrahim-moha-78993b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssssss" height="30" width="40" /></a>
 <a href="https://instagram.com/mendari.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mendari.03" height="30" width="40" /></a>
 </p> 
 
